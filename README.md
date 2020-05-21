@@ -1,7 +1,7 @@
 ## Demo
 
 Puteti accesa proiectul prin link-ul următor:
-https://react-test-project-2.herokuapp.com/
+https://react-examen-practic.herokuapp.com/
 
 ## Examen Practic React cerinte
 
