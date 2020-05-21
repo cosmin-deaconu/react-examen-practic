@@ -1,3 +1,8 @@
+## Demo
+
+Puteti accesa proiectul prin link-ul următor:
+https://react-test-project-2.herokuapp.com/
+
 ## Examen Practic React cerinte
 
 * Pe prima pagină(ruta /home) se va regăsi un formular cu următoarele informații: nume, prenume, meserie, salariu, data angajării(de preferat să fie data submiterii formularului).
